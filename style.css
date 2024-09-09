@@ -21,29 +21,51 @@ div{
     margin-right: 7%;
     margin-left: 7%;
     border-radius: 10px;
-}
-
-svg{
-    padding-top: 20px;
-    padding-left: 50%;
-}
-
-.in-container{
-    position: absolute;
-    padding-left: 22%;
-    width: 40%;
-    top: 65px;
-    text-align: center;
-
-
+    padding-bottom: 50%;
 }
 
 h1{
-    padding-left: 40px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    text-align: center;
 }
 
 .align{
-    padding-top: 20px;
-    color: #6f757c;
+    width: 35%;
+    padding-left: 34%;
+    text-align: center;
+    color: #6F757C;
 }
 
+.vector{
+    width: 20%;
+    padding-left: 50%;
+    padding-top: 30px;
+    position: static;
+}
+
+#padd{
+    position: relative;
+    bottom: 100px;
+}
+
+nav{
+    display: flex;
+    padding-left: 42%;
+    padding-top: 20px;
+    gap: 20px;
+    
+}
+
+.one-container{
+    background-color: #6F757C;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+
+.two-container{
+    padding-top: 5px;
+}
