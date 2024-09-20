@@ -72,7 +72,19 @@ nav{
 
 .one-base{
     width: 20%;
-    border-radius: 20px;
-    padding-top: 10px;
-    padding-left: 10px;
+    border-radius: 10px;
+}
+
+.padd{
+    width:28%;
+    border-radius: 10px;
+}
+
+footer{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-left: 15%;
+
 }
